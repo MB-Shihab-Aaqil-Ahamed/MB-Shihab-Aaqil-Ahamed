@@ -4,6 +4,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning an
 
 I'm interested in collaborationg with projects, research papers with fellow enthusiasts in the field of Artificial Intelligence, Machine Learning, Deep Learning and Computer Vision and Pattern Recognition. If you have an idea related to my areas of interest, feel free to shoot me an [email](mailto:shihabaaqilahamed@gmail.com)! 
 
-👉🏼 ***Feel free to follow me on [LinkedIn](https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/) to stay updated.***
+🤷 Feel free to follow me on [LinkedIn](https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/) to stay updated.
 
 ### Bio
+
