@@ -1,4 +1,6 @@
-### About
+### Hi there, I am MB Shihab Aaqil Ahamed 👋
+
+### About 🤨
 
 Are you ready to join me on a journey into the exciting world of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Computer Vision, Pattern Recognition, and Natural Language Processing (NLP)? I am a passionate and dedicated individual with a deep love for these fields and an unquenchable thirst for knowledge.
 
