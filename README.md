@@ -16,5 +16,4 @@ I'm an Electronic & Telecommunication Engineering, University of Moratuwa
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MB-Shihab-Aaqil-Ahamed)
 
-[![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/MB-Shihab-Aaqil-Ahamed)
-
+[![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed&show_icons=true&theme=dark)](https://github.com/MB-Shihab-Aaqil-Ahamed)
