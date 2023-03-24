@@ -14,5 +14,5 @@ So, whether you are interested in collaborating on a project, sharing research i
 
 I'm an Electronic & Telecommunication Engineering, University of Moratuwa
 
-[![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/MB-Shihab-Aaqil-Ahamed/github-readme-stats)
+[![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/MB-Shihab-Aaqil-Ahamed)
 
