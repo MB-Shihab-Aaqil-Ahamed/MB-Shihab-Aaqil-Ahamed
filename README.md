@@ -12,3 +12,7 @@ So, whether you are interested in collaborating on a project, sharing research i
 
 ### Bio
 
+I'm an Electronic & Telecommunication Engineering, University of Moratuwa
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/anuraghazra/github-readme-stats)
+
