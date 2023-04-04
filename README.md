@@ -5,7 +5,7 @@
 
 ### About 🤨
 
-I'm an second year undergraduate of [Electronics & Telecommunication Engineering](https://www.ent.mrt.ac.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
+I'm an second year undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
 
 Are you ready to join me on a journey into the exciting world of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Computer Vision, Pattern Recognition, and Natural Language Processing (NLP)? I am a passionate and dedicated individual with a deep love for these fields and an unquenchable thirst for knowledge.
 
