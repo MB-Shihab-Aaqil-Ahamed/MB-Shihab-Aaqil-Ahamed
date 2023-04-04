@@ -1,4 +1,7 @@
-### Hi there, I am MB Shihab Aaqil Ahamed 👋
+### Hi there, I'm MB Shihab Aaqil Ahamed 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/)](https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=flat-square&link=https://www.facebook.com/YOUR_USERNAME/)](https://www.facebook.com/mbshihabaaqil.ahamed?mibextid=ZbWKwL)
 
 ### About 🤨
 
