@@ -5,6 +5,8 @@
 
 ### About 🤨
 
+I'm an second year undergraduate of [Electronics & Telecommunication Engineering](https://www.ent.mrt.ac.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
+
 Are you ready to join me on a journey into the exciting world of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Computer Vision, Pattern Recognition, and Natural Language Processing (NLP)? I am a passionate and dedicated individual with a deep love for these fields and an unquenchable thirst for knowledge.
 
 I am constantly seeking out new courses and opportunities to expand my skills and expertise in the latest AI technologies. My goal is to become a true expert in these fields, and I am always on the lookout for new projects and collaborations to help me achieve that goal.  I would love to hear from you! Feel free to shoot me an [email](mailto:shihabaaqilahamed@gmail.com)! or connect with me on [LinkedIn](https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/) to stay updated on my latest endeavors.
