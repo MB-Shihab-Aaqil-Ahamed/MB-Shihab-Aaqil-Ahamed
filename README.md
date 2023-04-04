@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 I'm an currently studying at [Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
+- 🎓 I'm currently studying at [Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
 - 🌱 Research Interest: Computer Vision, Artificial Intelligence, Machine Learning, Federated Learning & Deep Learning
 - 📃 Learning on top E-Learning platforms: Coursera, Udemy, and edX.
 - 👯 I’m looking to collaborate with other professionals on Projects🤝
