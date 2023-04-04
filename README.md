@@ -1,5 +1,6 @@
 ### Hi there, I'm MB Shihab Aaqil Ahamed 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=MB-Shihab-Aaqil-Ahamed&style=flat-square&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/)](https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=flat-square&link=https://www.facebook.com/YOUR_USERNAME/)](https://www.facebook.com/mbshihabaaqil.ahamed?mibextid=ZbWKwL)
 
@@ -13,8 +14,6 @@
 - 🥅 2023 Goals: Become expert by deeper diving into related fields.
 -  Please have a look at my resume for more details about me. I'm open to feedback and suggestions!
 - ⚡ Fun fact: Me and My laptop Engage with Studies✌
-
-![Profile Views](https://komarev.com/ghpvc/?username=MB-Shihab-Aaqil-Ahamed)
 
 ### Github Trophies 🏆
 
