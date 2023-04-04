@@ -16,7 +16,11 @@ I'm an second year undergraduate at Electronic & Telecommunication Engineering, 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MB-Shihab-Aaqil-Ahamed)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/MB-Shihab-Aaqil-Ahamed/github-profile-trophy)
+## Github Trophies
+
+[![MB-Shihab-Aaqil-Ahamed's trophy](https://github-profile-trophy.vercel.app/?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/MB-Shihab-Aaqil-Ahamed/github-profile-trophy)
+
+## GitHub stats
 
 [![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed&show_icons=true&theme=dracula)](https://github.com/MB-Shihab-Aaqil-Ahamed)
 
