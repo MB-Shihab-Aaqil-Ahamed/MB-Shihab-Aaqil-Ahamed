@@ -12,9 +12,11 @@ So, whether you are interested in collaborating on a project, sharing research i
 
 ### Bio
 
-I'm an Electronic & Telecommunication Engineering, University of Moratuwa
+I'm an second year undergraduate at Electronic & Telecommunication Engineering, University of Moratuwa
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MB-Shihab-Aaqil-Ahamed)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/MB-Shihab-Aaqil-Ahamed/github-profile-trophy)
 
 [![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed&show_icons=true&theme=dracula)](https://github.com/MB-Shihab-Aaqil-Ahamed)
 
