@@ -18,7 +18,8 @@ I'm an second year undergraduate at Electronic & Telecommunication Engineering, 
 
 ## Github Trophies
 
-[![MB-Shihab-Aaqil-Ahamed's trophy](https://github-profile-trophy.vercel.app/?username=MB-Shihab-Aaqil-Ahamed)](https://github.com/MB-Shihab-Aaqil-Ahamed/github-profile-trophy)
+
+[![MB-Shihab-Aaqil-Ahamed's trophy](https://github-profile-trophy.vercel.app/?username=MB-Shihab-Aaqil-Ahamed&theme=onedark)](https://github.com/MB-Shihab-Aaqil-Ahamed)
 
 ## GitHub stats
 
