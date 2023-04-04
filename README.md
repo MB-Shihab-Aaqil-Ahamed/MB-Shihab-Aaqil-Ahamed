@@ -8,10 +8,11 @@
 I'm an second year undergraduate of [Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
 
 - 🌱 Research Interest: Computer Vision, Artificial Intelligence, Machine Learning, Federated Learning & Deep Learning
-- 📃 Reading on ML Metrics
-- 👯 I’m looking to collaborate with other content creators & professionals🤝 🏻
-- 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning
-- ⚡ Fun fact: I love reading Philosophy
+- 📃 Learning on top E-Learning platforms: Coursera, Udemy, and edX.
+- 👯 I’m looking to collaborate with other professionals on Projects🤝
+- 📫 Feel free to shoot me an [email](mailto:shihabaaqilahamed@gmail.com)!
+- 🥅 2023 Goals: Become expert by deeper into related fields.
+- ⚡ Fun fact: Me and My laptop Engage with Studies✌
 
 ### Bio
 
