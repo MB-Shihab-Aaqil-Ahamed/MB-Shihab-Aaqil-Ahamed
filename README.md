@@ -1,7 +1,6 @@
 ### Hi there, I'm MB Shihab Aaqil Ahamed 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MB-Shihab-Aaqil-Ahamed&style=flat-square&color=blueviolet)
-[![wakatime](https://wakatime.com/badge/user/aa7caa62-dc2b-435e-95ef-ebf1d6af4205.svg)](https://wakatime.com/@aa7caa62-dc2b-435e-95ef-ebf1d6af4205)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/)](https://www.linkedin.com/in/mb-shihab-aaqil-ahamed-094508215/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=flat-square&link=https://www.facebook.com/YOUR_USERNAME/)](https://www.facebook.com/mbshihabaaqil.ahamed?mibextid=ZbWKwL)
@@ -28,4 +27,4 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MB-Shihab-Aaqil-Ahamed&layout=compact&theme=dracula)](https://github.com/MB-Shihab-Aaqil-Ahamed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MB-Shihab-Aaqil-Ahamed&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/MB-Shihab-Aaqil-Ahamed)
