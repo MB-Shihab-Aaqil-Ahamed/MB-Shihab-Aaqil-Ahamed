@@ -21,9 +21,13 @@
 
 [![MB-Shihab-Aaqil-Ahamed's trophy](https://github-profile-trophy.vercel.app/?username=MB-Shihab-Aaqil-Ahamed&theme=onedark)](https://github.com/MB-Shihab-Aaqil-Ahamed)
 
+<img align="center" width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MB-Shihab-Aaqil-Ahamed&line_height=21&theme=dracula"> 
+
 ### GitHub stats
 
 [![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed&show_icons=true&theme=dracula)](https://github.com/MB-Shihab-Aaqil-Ahamed)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MB-Shihab-Aaqil-Ahamed&" alt="lebrancconvas" /></p> 
 
 ### Top Languages
 
