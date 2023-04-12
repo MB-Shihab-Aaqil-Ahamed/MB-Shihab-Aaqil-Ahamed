@@ -31,4 +31,5 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MB-Shihab-Aaqil-Ahamed&layout=compact&langs_count=10&custom_title=Languages&theme=dracula](https://github.com/MB-Shihab-Aaqil-Ahamed)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MB-Shihab-Aaqil-Ahamed&layout=compact&langs_count=10&custom_title=Languages&theme=dracula)](https://github.com/MB-Shihab-Aaqil-Ahamed)
+
