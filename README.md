@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 I'm currently studying at [Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
+- 🎓 I'm currently studying at [ENTC: Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
 - 🌱 Research Interest: Computer Vision, Artificial Intelligence, Machine Learning, Federated Learning & Deep Learning
 - 📃 Learning on top E-Learning platforms: Coursera, Udemy, and edX.
 - 👯 I’m looking to collaborate with other professionals on Projects🤝
@@ -31,4 +31,4 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MB-Shihab-Aaqil-Ahamed&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&show_icons=true&theme=dracula](https://github.com/MB-Shihab-Aaqil-Ahamed)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MB-Shihab-Aaqil-Ahamed&layout=compact&langs_count=10&custom_title=Languages&theme=dracula](https://github.com/MB-Shihab-Aaqil-Ahamed)
