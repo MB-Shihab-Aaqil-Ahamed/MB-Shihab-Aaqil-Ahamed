@@ -27,7 +27,7 @@
 
 [![MB-Shihab-Aaqil-Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MB-Shihab-Aaqil-Ahamed&show_icons=true&theme=dracula)](https://github.com/MB-Shihab-Aaqil-Ahamed)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MB-Shihab-Aaqil-Ahamed&" alt="lebrancconvas" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MB-Shihab-Aaqil-Ahamed&theme=dracula&" alt="lebrancconvas" /></p> 
 
 ### Top Languages
 
