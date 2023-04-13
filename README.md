@@ -7,14 +7,14 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓📚 I'm currently studying at [ENTC: Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/).
-- 🌱🤖 Research Interest: Computer Vision, Artificial Intelligence, Machine Learning, Federated Learning & Deep Learning
-- 💻📖 Learning on top E-Learning platforms: Coursera, Udemy, and edX.
-- 👯🤝 I’m looking to collaborate with other professionals on Projects🤝
-- 📫 Feel free to shoot me an [email](mailto:shihabaaqilahamed@gmail.com)!
-- 🥅🧠 2023 Goals: Become expert by deeper diving into related fields.
--  📄 Please have a look at my resume for more details about me. I'm open to feedback and suggestions!
-- 💡⚡ Fun fact: Me and My laptop are unstoppable when it comes to engaging in studies.✌
+- 🎓 I'm currently studying at [ENTC: Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/)📚
+- 🌱Research Interest: Computer Vision, Artificial Intelligence, Machine Learning, Federated Learning & Deep Learning🤖 
+- 💻 Learning on top E-Learning platforms: Coursera, Udemy, and edX📖
+- 👯 I’m looking to collaborate with other professionals on Projects🤝
+- 📫 Feel free to shoot me an [email](mailto:shihabaaqilahamed@gmail.com)!🧠
+- 🥅 2023 Goals: Become expert by deeper diving into related fields.
+- 📄 Please have a look at my resume for more details about me. I'm open to feedback and suggestions!
+- 💡 Fun fact: Me and My laptop are unstoppable when it comes to engaging in studies.⚡
 
 ### Github Trophies 🏆
 
