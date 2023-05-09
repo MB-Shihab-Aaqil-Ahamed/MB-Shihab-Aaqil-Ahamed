@@ -18,7 +18,6 @@
 
 ### Github Trophies 🏆
 
-
 [![MB-Shihab-Aaqil-Ahamed's trophy](https://github-profile-trophy.vercel.app/?username=MB-Shihab-Aaqil-Ahamed&theme=onedark)](https://github.com/MB-Shihab-Aaqil-Ahamed)
 
 <img align="center" width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MB-Shihab-Aaqil-Ahamed&line_height=21&theme=dracula"> 
